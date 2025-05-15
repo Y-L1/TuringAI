@@ -1,2 +1,2 @@
-# TuringAI
-This is a project about Turing AI!
+# EnkiAI
+This is a project about Enki AI!
